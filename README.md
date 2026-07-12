@@ -47,34 +47,6 @@ The Smart Traffic Violation Logger replaces traditional paper challans with a di
 - qrcode
 - Pillow
 
----
-
-## 📂 Project Structure
-
-```
-Smart-Traffic-Violation-Logger/
-│
-├── app.py
-├── requirements.txt
-├── traffic.db
-│
-├── templates/
-│   ├── base.html
-│   ├── home.html
-│   ├── add_violation.html
-│   ├── history.html
-│   ├── update_status.html
-│   ├── challan.html
-│   └── public_status.html
-│
-├── static/
-│   ├── css/
-│   │   └── style.css
-│   │
-│   └── qr_codes/
-│
-└── README.md
-```
 
 ---
 
@@ -157,27 +129,6 @@ http://127.0.0.1:5000/
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here after running the project.
-
-Example:
-
-```
-Home Page
-
-Add Violation Page
-
-Violation History
-
-Digital Challan
-
-QR Code
-
-Public Status Page
-```
-
----
 
 ## 📦 Dependencies
 
